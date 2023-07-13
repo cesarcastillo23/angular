@@ -1,0 +1,17 @@
+
+
+li{
+  cursor: pointer;
+  transition: 0.3s all;
+}
+ul{
+  width: 200px;
+  z-index: 999;
+  position: fixed;
+  margin-left:20px;
+  margin-top: 20px;
+}
+li{
+  cursor: pointer;
+  transition: 0.2s all;
+}
